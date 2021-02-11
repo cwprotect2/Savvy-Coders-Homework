@@ -11,8 +11,9 @@ console.log(NumberOfToppings, typeof NumberOfToppings);
 
 console.log(`At my restaurant ${PizzaPlace}, i have ${NumberOfToppings} different toppings `);
 
-/* if (NumberOfToppings is <=8) {
+ if (NumberOfToppings < 10) {
+     console.log("Quality, not quantity.");
   //  That's a Nice size Pizza
+  } else {
+    console.log("A whole lot of Pizza");
   };
-if (NumberOfToppings is >=8) {That's a whole lot of Pizza};
-*/
