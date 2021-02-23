@@ -1,0 +1,19 @@
+header {
+ color: blue;
+}
+h1 {
+ border:1px solid black;
+}
+img {
+ width: 100%;
+}
+
+.home {
+ color: red;
+}
+a {
+text-decoration: none;
+}
+#inventor {
+ color: seagreen;
+}
